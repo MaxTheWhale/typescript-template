@@ -1,6 +1,7 @@
 # Modern Typescript template project
 
 ## Summary
+
 This repo contains a template Typescript project, with the following setup:
 
 - Typescript with strict checks enabled
