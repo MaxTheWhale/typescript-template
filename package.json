@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A template for a modern typescript project with strict lint checking.",
   "main": "src/main.ts",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "build": "tsc --build",
