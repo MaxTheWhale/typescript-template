@@ -1,14 +1,13 @@
 {
   "name": "typescript-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "A template for a modern typescript project with strict lint checking.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "maxwhale99@gmail.com",
+  "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.47.0",
     "@typescript-eslint/parser": "^5.47.0",
